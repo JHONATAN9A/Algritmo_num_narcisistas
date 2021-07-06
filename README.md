@@ -1,2 +1,2 @@
-# Algoritmo_num_narcisistas
+# Algoritmo_Armstrong
 El algoritmo identifica si un numero es narcisista o no.
